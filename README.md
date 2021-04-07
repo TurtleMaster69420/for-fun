@@ -1,2 +1,2 @@
 # For fun
-Unhelpful programs for your unhelpful needs
+Unhelpful programs for your absolutely none of your needs.
