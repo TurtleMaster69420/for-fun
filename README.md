@@ -1,2 +1,2 @@
-# Very-useful-codes-cough
-Useful and helpful
+# For fun
+Unhelpful programs for your unhelpful needs
